@@ -1,9 +1,6 @@
 
 
 
-Test
-
-
 # VeraDemo - Blab-a-Gag
 
 ## About
