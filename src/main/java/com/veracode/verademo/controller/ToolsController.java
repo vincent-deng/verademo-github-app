@@ -78,6 +78,8 @@ public class ToolsController {
 	}
 
 
+	
+	
 	private String fortune(String fortuneFile)
 	{
 		String cmd = context.getRealPath("\\resources\\bin\\fortune-go.exe") + " "
