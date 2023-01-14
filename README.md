@@ -49,6 +49,8 @@ Set up a database in MySQL called `blab` with a user of `blab` and password `z2^
 
 Deploy the build output war file to Tomcat.
 
+
+
 Open `/reset` in your browser and follow the instructions to prep the database
 
 Login with a username/password as defined in `Utils.java`
