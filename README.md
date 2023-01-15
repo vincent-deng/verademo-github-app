@@ -22,7 +22,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 
 `/login` allows you to log in to your account
 
-`/register` allows you to create a new user account
+`/register` allows you to create a new user accountfawefawe
 
 `/tools` shows a tools page that shows a fortune or lets you ping a host.
 
