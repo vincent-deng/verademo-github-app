@@ -14,7 +14,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
  - jokes
  - heckles
 
-faef
+faefafewf
   
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
