@@ -32,7 +32,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 To build Verademo [Maven](https://maven.apache.org) is required.
 
 `mvn package` will build the web application and output a war file to `target/verademo.war`. This war file can be uploaded to Veracode for static analysis.
-
+asfwefa
 ## Configure
 
 To run Verademo [MySQL](https://www.mysql.com/) and [Tomcat](https://tomcat.apache.org/) are required.
